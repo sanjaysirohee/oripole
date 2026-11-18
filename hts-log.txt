@@ -1,0 +1,23 @@
+HTTrack3.51-0 launched on Wed, 18 Nov 2026 15:36:09 at https://vatech-nextjs.vercel.app/?storefront=envato-elements +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack/3.x; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://vatech-nextjs.vercel.app/?storefront=envato-elements -O1 E:\HTTracker\Vatech +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:39:56	Error: 	"Not Found" (404) at link https://vatech-nextjs.vercel.app/https:/www.facebook.com (from https://vatech-nextjs.vercel.app/?storefront=envato-elements)
+15:39:56	Error: 	"Not Found" (404) at link https://vatech-nextjs.vercel.app/https:/www.instagram.com (from https://vatech-nextjs.vercel.app/?storefront=envato-elements)
+15:39:56	Error: 	"Not Found" (404) at link https://vatech-nextjs.vercel.app/https:/twitter.com (from https://vatech-nextjs.vercel.app/?storefront=envato-elements)
+15:39:56	Error: 	"Not Found" (404) at link https://vatech-nextjs.vercel.app/https:/www.linkedin.com (from https://vatech-nextjs.vercel.app/?storefront=envato-elements)
+15:44:45	Error: 	"Not Found" (404) at link https://vatech-nextjs.vercel.app/404 (from https://vatech-nextjs.vercel.app/?storefront=envato-elements)
+15:44:46	Warning: 	Permanent Redirect for https://vatech-nextjs.vercel.app/_next/
+15:44:46	Warning: 	File has moved from https://vatech-nextjs.vercel.app/_next/ to /_next
+15:44:48	Error: 	"Not Found" (404) at link https://vatech-nextjs.vercel.app/javascript:void(0) (from https://vatech-nextjs.vercel.app/index-2)
+15:44:50	Error: 	"Not Found" (404) at link https://vatech-nextjs.vercel.app/mailto:dolores.chambers@example.com (from https://vatech-nextjs.vercel.app/index-5)
+15:44:51	Error: 	"Not Found" (404) at link https://vatech-nextjs.vercel.app/mailto:support@realco.com (from https://vatech-nextjs.vercel.app/index-8)
+15:44:56	Error: 	"Not Found" (404) at link https://vatech-nextjs.vercel.app/_next (from https://vatech-nextjs.vercel.app/_next/)
+15:44:56	Error: 	"Not Found" (404) at link https://vatech-nextjs.vercel.app/_next-live/feedback/feedback.html?dpl=dpl_8c2fHn5uLcv8kj8UbdQvTSrKG7qY (from https://vercel.live/_next-live/feedback/feedback.js)
+
+HTTrack Website Copier/3.51-0 mirror complete in 8 minutes 47 seconds : 770 links scanned, 758 files written (49047905 bytes overall) [41253219 bytes received at 78279 bytes/sec], 11565997 bytes transferred using HTTP compression in 185 files, ratio 24%
+(10 errors, 2 warnings, 0 messages)
